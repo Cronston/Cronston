@@ -1,15 +1,14 @@
 👋 Welcome to my GitHub bio.
 
-✍️ I'm an 16 y.o experienced programmer with several successful projects under my belt.
+✍️ I am a 17-year-old experienced programmer with several programming languages ​​behind me.
 
-🇬 I'm based in Baku, Azerbaijan. Curently living in Moskow
+🇬 I was born in Kyrgyzstan and live in Bishkek
 
-🔊 I love dark mode, open source.
+🔊 I love the open source dark mode.
 
-🖼️ When I'm not working, I like eating, sleeping listening music.
+🖼️When I'm not working, I like to play, sleep and listen to music.
 
-🤫 I hate watching anime.
-
+🤫I hate watching anime.
 
 <!---
 Cronston/Cronston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
