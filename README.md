@@ -1,10 +1,10 @@
 👋 Welcome to my GitHub bio.
 
-✍️ I am a 17-year-old experienced programmer with several programming languages ​​behind me.
+✍️ I am a 18-year-old experienced programmer with several programming languages ​​behind me.
 
 🇬 I was born in Kyrgyzstan and live in Bishkek
 
-🔊 I love the open source dark mode.
+🔊 I love the fonk, nashid and dark mode.
 
 🖼️When I'm not working, I like to play, sleep and listen to music.
 
